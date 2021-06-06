@@ -1,2 +1,3 @@
 # Chrome-Extension-Darknewtab-
-This is a chrome extension newtab page.
+chrome extension newtab page.
+https://chrome-extension-newtab.netlify.app
